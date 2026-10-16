@@ -1,0 +1,329 @@
+{
+  "status": "success",
+  "book": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/ai-era-human-learning-book.pdf",
+  "pages": 167,
+  "cover": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/frontmatter-cover.pdf",
+  "cover_image": "idea-projects/ai-era-human-learning/cover.png",
+  "cover_image_size_px": [
+    1536,
+    2304
+  ],
+  "cover_strategy": "scale-to-A5-width; centered vertical crop; preserve aspect ratio; add only missing studio text",
+  "titlepage": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/frontmatter-titlepage.pdf",
+  "titlepage_md": "idea-projects/ai-era-human-learning/pdf/build/frontmatter/titlepage.md",
+  "titlepage_style": "monochrome black-on-white; parsed from Markdown frontmatter",
+  "toc": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/frontmatter-toc.pdf",
+  "bookmarks": [
+    [
+      1,
+      "封面",
+      1
+    ],
+    [
+      1,
+      "扉页",
+      2
+    ],
+    [
+      1,
+      "目录",
+      3
+    ],
+    [
+      1,
+      "引言：当答案越来越便宜，学习为什么仍然重要",
+      4
+    ],
+    [
+      1,
+      "第一章 为什么人类仍需学习？",
+      14
+    ],
+    [
+      1,
+      "第二章 知识的功能：它如何改变我们看见、理解与行动的方式",
+      24
+    ],
+    [
+      1,
+      "第三章 什么知识值得投入有限注意力？",
+      35
+    ],
+    [
+      1,
+      "第四章 进入陌生领域：先搭地图，再谈理解",
+      46
+    ],
+    [
+      1,
+      "第五章 知识内化：让外部内容变成自己的理解",
+      55
+    ],
+    [
+      1,
+      "第六章 费曼解释法的真实位置：诊断工具，不是完整学习理论",
+      66
+    ],
+    [
+      1,
+      "第七章 理解的验证：把“我觉得会了”变成可核对的表现",
+      76
+    ],
+    [
+      1,
+      "第八章 从理解到能力：知识如何迁移到新问题",
+      87
+    ],
+    [
+      1,
+      "第九章 人与 AI 的学习协同：把思考拆开，而不是把思考外包",
+      97
+    ],
+    [
+      1,
+      "第十章 验证机器生成的知识：从漂亮答案到可检查的主张",
+      107
+    ],
+    [
+      1,
+      "第十一章 跨学科学习：如何把漂亮的连接变成可检查的理解",
+      118
+    ],
+    [
+      1,
+      "第十二章 如果 AI 能提出更好的方案，人类的主体性体现在哪里？",
+      131
+    ],
+    [
+      1,
+      "第十三章 人类、AI 与机器人：在未来边界上继续学习",
+      144
+    ],
+    [
+      1,
+      "结语：继续学习，不是为了追上机器",
+      158
+    ]
+  ],
+  "toc_entries": [
+    {
+      "title": "引言：当答案越来越便宜，学习为什么仍然重要",
+      "page": 1,
+      "is_frontmatter": true
+    },
+    {
+      "title": "第一章 为什么人类仍需学习？",
+      "page": 11,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第二章 知识的功能：它如何改变我们看见、理解与行动的方式",
+      "page": 21,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第三章 什么知识值得投入有限注意力？",
+      "page": 32,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第四章 进入陌生领域：先搭地图，再谈理解",
+      "page": 43,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第五章 知识内化：让外部内容变成自己的理解",
+      "page": 52,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第六章 费曼解释法的真实位置：诊断工具，不是完整学习理论",
+      "page": 63,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第七章 理解的验证：把“我觉得会了”变成可核对的表现",
+      "page": 73,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第八章 从理解到能力：知识如何迁移到新问题",
+      "page": 84,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第九章 人与 AI 的学习协同：把思考拆开，而不是把思考外包",
+      "page": 94,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第十章 验证机器生成的知识：从漂亮答案到可检查的主张",
+      "page": 104,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第十一章 跨学科学习：如何把漂亮的连接变成可检查的理解",
+      "page": 115,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第十二章 如果 AI 能提出更好的方案，人类的主体性体现在哪里？",
+      "page": 128,
+      "is_frontmatter": false
+    },
+    {
+      "title": "第十三章 人类、AI 与机器人：在未来边界上继续学习",
+      "page": 141,
+      "is_frontmatter": false
+    },
+    {
+      "title": "结语：继续学习，不是为了追上机器",
+      "page": 155,
+      "is_frontmatter": false
+    }
+  ],
+  "offsets": {
+    "introduction": 1,
+    "chapter-01": 11,
+    "chapter-02": 21,
+    "chapter-03": 32,
+    "chapter-04": 43,
+    "chapter-05": 52,
+    "chapter-06": 63,
+    "chapter-07": 73,
+    "chapter-08": 84,
+    "chapter-09": 94,
+    "chapter-10": 104,
+    "chapter-11": 115,
+    "chapter-12": 128,
+    "chapter-13": 141,
+    "conclusion": 155
+  },
+  "units": [
+    {
+      "key": "introduction",
+      "kind": "intro",
+      "md": "introduction/versioned/reading-optimization-20261013/introduction.md",
+      "title": "引言：当答案越来越便宜，学习为什么仍然重要",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/introduction.pdf",
+      "pages": 10
+    },
+    {
+      "key": "chapter-01",
+      "kind": "chapter",
+      "md": "branches/1-why-humans-still-learn/versioned/reading-optimization-20261013/chapter-01-why-humans-still-learn.md",
+      "title": "第一章 为什么人类仍需学习？",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-01.pdf",
+      "pages": 10
+    },
+    {
+      "key": "chapter-02",
+      "kind": "chapter",
+      "md": "branches/2-functions-of-knowledge/versioned/reading-optimization-20261013/chapter-02-functions-of-knowledge.md",
+      "title": "第二章 知识的功能：它如何改变我们看见、理解与行动的方式",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-02.pdf",
+      "pages": 11
+    },
+    {
+      "key": "chapter-03",
+      "kind": "chapter",
+      "md": "branches/3-knowledge-value-and-selection/versioned/reading-optimization-20261013/chapter-03-knowledge-value-and-selection.md",
+      "title": "第三章 什么知识值得投入有限注意力？",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-03.pdf",
+      "pages": 11
+    },
+    {
+      "key": "chapter-04",
+      "kind": "chapter",
+      "md": "branches/4-entering-unknown-domains/versioned/reading-optimization-20261013-repair-01/chapter-04-entering-unknown-domains.md",
+      "title": "第四章 进入陌生领域：先搭地图，再谈理解",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-04.pdf",
+      "pages": 9
+    },
+    {
+      "key": "chapter-05",
+      "kind": "chapter",
+      "md": "branches/5-knowledge-internalization/versioned/reading-optimization-20261013/chapter-05-knowledge-internalization.md",
+      "title": "第五章 知识内化：让外部内容变成自己的理解",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-05.pdf",
+      "pages": 11
+    },
+    {
+      "key": "chapter-06",
+      "kind": "chapter",
+      "md": "branches/6-feynman-method-position/versioned/reading-optimization-20261013/chapter-06-feynman-method-position.md",
+      "title": "第六章 费曼解释法的真实位置：诊断工具，不是完整学习理论",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-06.pdf",
+      "pages": 10
+    },
+    {
+      "key": "chapter-07",
+      "kind": "chapter",
+      "md": "branches/7-validating-understanding/versioned/reading-optimization-20261013/chapter-07-validating-understanding.md",
+      "title": "第七章 理解的验证：把“我觉得会了”变成可核对的表现",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-07.pdf",
+      "pages": 11
+    },
+    {
+      "key": "chapter-08",
+      "kind": "chapter",
+      "md": "branches/8-knowledge-transfer-and-application/versioned/reading-optimization-20261013/chapter-08-knowledge-transfer-and-application.md",
+      "title": "第八章 从理解到能力：知识如何迁移到新问题",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-08.pdf",
+      "pages": 10
+    },
+    {
+      "key": "chapter-09",
+      "kind": "chapter",
+      "md": "branches/9-human-ai-learning-collaboration/versioned/reading-optimization-20261013/chapter-09-human-ai-learning-collaboration.md",
+      "title": "第九章 人与 AI 的学习协同：把思考拆开，而不是把思考外包",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-09.pdf",
+      "pages": 10
+    },
+    {
+      "key": "chapter-10",
+      "kind": "chapter",
+      "md": "branches/10-validating-machine-generated-knowledge/versioned/reading-optimization-20261013/chapter-10-validating-machine-generated-knowledge.md",
+      "title": "第十章 验证机器生成的知识：从漂亮答案到可检查的主张",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-10.pdf",
+      "pages": 11
+    },
+    {
+      "key": "chapter-11",
+      "kind": "chapter",
+      "md": "branches/11-cross-disciplinary-learning/versioned/reading-optimization-20261013/chapter-11-cross-disciplinary-learning.md",
+      "title": "第十一章 跨学科学习：如何把漂亮的连接变成可检查的理解",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-11.pdf",
+      "pages": 13
+    },
+    {
+      "key": "chapter-12",
+      "kind": "chapter",
+      "md": "branches/12-human-agency-and-responsibility/versioned/reading-optimization-20261013/chapter-12-human-agency-and-responsibility.md",
+      "title": "第十二章 如果 AI 能提出更好的方案，人类的主体性体现在哪里？",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-12.pdf",
+      "pages": 13
+    },
+    {
+      "key": "chapter-13",
+      "kind": "chapter",
+      "md": "branches/13-human-ai-robot-future-boundaries/versioned/reading-optimization-20261013/chapter-13-human-ai-robot-future-boundaries.md",
+      "title": "第十三章 人类、AI 与机器人：在未来边界上继续学习",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/chapter-13.pdf",
+      "pages": 14
+    },
+    {
+      "key": "conclusion",
+      "kind": "conclusion",
+      "md": "conclusion/versioned/reading-optimization-20261013/conclusion.md",
+      "title": "结语：继续学习，不是为了追上机器",
+      "pdf": "/Users/yeechao/Desktop/AISOP/guide/idea-projects/ai-era-human-learning/pdf/build/main/conclusion.pdf",
+      "pages": 10
+    }
+  ],
+  "printed_total": 164,
+  "intro_pages": 10,
+  "data_mode": "cover-png + titlepage-md(bw) + latex-toc",
+  "source_markdown_recompiled": true,
+  "source_markdown_modified": false
+}
